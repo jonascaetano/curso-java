@@ -1,4 +1,4 @@
-package cursoJava;
+package fundamentos;
 
 public class Fundamentos {
 
@@ -60,8 +60,8 @@ public class Fundamentos {
 		System.out.println("Exemplo 3 - Uso do 'else - if'");
 		if (idade < 16) {
 			System.out.println("PROIBIDO VOTAR");
-		} else if (idade >= 18 && idade <=70) {
-			System.out.println("VOTO OBRGATÓRIO");			
+		} else if (idade >= 18 && idade <= 70) {
+			System.out.println("VOTO OBRGATÓRIO");
 		} else {
 			System.out.println("VOTO FACULTATIVO");
 		}
@@ -91,7 +91,7 @@ public class Fundamentos {
 		System.out.println("Exemplo 5 - Uso do 'for'");
 		for (int j = 10; j > 0; j--) {
 			System.out.println(j);
-			
+
 		}
 		System.out.println();
 		System.out.println("Exemplo 6 - Tabuada");

@@ -1,11 +1,10 @@
 /**
  * 
  */
-package cursoJava;
+package fundamentos;
 
 /**
- * @author First
- * Hello, World!
+ * @author First Hello, World!
  *
  */
 public class Hello {
